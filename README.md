@@ -18,15 +18,15 @@ The repository was created to facilitate access to the supplementary material du
 Supplementary-material/
 │
 ├── Table S1/
-│   ├── Supplementary Table 1.pdf
-│   └── Supplementary Table 1.xlsx
+│   ├── Supplementary Table S1.pdf
+│   └── Supplementary Table S1.xlsx
 │
 ├── Table S2/
-│   ├── Supplementary Table 2.pdf
-│   └── Supplementary Table 2.xlsx
+│   ├── Supplementary Table S2.pdf
+│   └── Supplementary Table S2.xlsx
 │
 ├── Table S3/
-│   ├── Supplementary Table 3.pdf
-│   └── Supplementary Table 3.xlsx
+│   ├── Supplementary Table S3.pdf
+│   └── Supplementary Table S3.xlsx
 │
 └── README.md
