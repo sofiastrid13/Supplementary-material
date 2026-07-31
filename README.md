@@ -13,7 +13,7 @@ All supplementary tables are available in the [`tables/`](tables/) directory.
 
 | Table | Description |
 |---|---|
-| Supplementary Table S1 | [Add table description] |
+| Supplementary Table S1 | [Spearman correlation analysis among soluble immune checkpoint molecules in PBMCs according to clinical group and time point.] |
 | Supplementary Table S2 | [Add table description] |
 | Supplementary Table S3 | [Add table description] |
 | Supplementary Table S4 | [Add table description] |
